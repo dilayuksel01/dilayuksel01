@@ -16,9 +16,10 @@
 
 ### 🚀 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilayuksel01&repo=cosmos)](https://github.com/dilayuksel01/cosmos)
+### 🚀 Projects
 
-More projects coming soon...  
+- [Cosmos](https://github.com/dilayuksel01/cosmos) 
+More projects coming soon...
 
 ---
 
