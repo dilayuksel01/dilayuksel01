@@ -14,11 +14,11 @@
 
 ---
 
-### 🚀 Projects
 
 ### 🚀 Projects
 
-- [Cosmos](https://github.com/dilayuksel01/cosmos) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilayuksel01&repo=planet_athmosphere_atom_seeker)](https://github.com/dilayuksel01/planet_athmosphere_atom_seeker)
+
 More projects coming soon...
 
 ---
