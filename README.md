@@ -1,7 +1,5 @@
 <h1 align="center"> Hi, I'm Dila! 👋 </h1>
-<p align="center">
-  <i>Curious about science and technology, I enjoy exploring new ideas and turning them into practice.</i>
-</p>
+
 
 ---
 
