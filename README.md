@@ -4,10 +4,10 @@
 ---
 
 ### 💻 About Me
+- Undergrad Researcher on a 3D Deep Learning Project
 - 🎓 Computer Engineering & Artificial Intelligence double major student at Bahçeşehir University  
 - 🤖 Founder & Chair of **AI Insight & Publishing Committee** at BAU Artificial Intelligence Society (2025– )  
 - 📝 Former Content Writer & Organization Committee Member at BAU Artificial Intelligence Society (2024–2025)  
-- 💡 Vice Chair of **Computer Society Committee** at IEEE Bahçeşehir University (2025– )  
 - 📚 Event Organizer at **Çekiçle Felsefe**, designing interdisciplinary philosophy events (2024–2025)  
 
 ---
