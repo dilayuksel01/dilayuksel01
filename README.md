@@ -12,18 +12,6 @@
 
 ---
 
-
-### 🚀 Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilayuksel01&repo=planet_athmosphere_atom_seeker)](https://github.com/dilayuksel01/planet_athmosphere_atom_seeker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilayuksel01&repo=planet_athmosphere_atom_seeker)](https://github.com/Bahcesehir-University/cmp2003-term-project-defansif-dizayn)
-
-
-
-More projects coming soon...
-
----
-
 ### 🛠️ Tech Stack
 
 #### 👩‍💻 Programming Languages  
