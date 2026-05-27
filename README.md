@@ -1,7 +1,6 @@
 # Hi there, I'm Dila 👋
 
-🎓 Computer & Artificial Intelligence Engineering Student  
-🔬 Interested in Deep Learning, 3D Computer Vision, and AI Research  
+🎓 Computer & Artificial Intelligence Engineering Student   
 📍 Istanbul, Türkiye
 
 ---
@@ -9,7 +8,6 @@
 ## 🚀 About Me
 
 
-- 🎓 Double major student in Computer Engineering & Artificial Intelligence Engineering
 - 🔬 Undergraduate researcher focused on 3D Computer Vision and Point Cloud Analysis
 - 🧠 Interested in Deep Learning, Data Processing, and interdisciplinary AI research
 - 💻 Developing projects in computer vision, AI applications, and high-performance data analysis
