@@ -8,10 +8,12 @@
 
 ## 🚀 About Me
 
-- Double major in Computer Engineering & Artificial Intelligence Engineering
-- Undergraduate researcher working on 3D point cloud analysis
-- Interested in Deep Tech-oriented R&D and interdisciplinary AI
-- Passionate about combining intelligent systems with real-world applications
+
+- 🎓 Double major student in Computer Engineering & Artificial Intelligence Engineering
+- 🔬 Undergraduate researcher focused on 3D Computer Vision and Point Cloud Analysis
+- 🧠 Interested in Deep Learning, Data Processing, and interdisciplinary AI research
+- 💻 Developing projects in computer vision, AI applications, and high-performance data analysis
+- 📚 Active in AI publishing, research discussions, and technical event organization
 
 
 ---
