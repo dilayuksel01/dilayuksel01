@@ -1,75 +1,74 @@
-<h1 align="center"> Hi, I'm Dila! 👋 </h1>
+# Hi there, I'm Dila 👋
+
+🎓 Computer & Artificial Intelligence Engineering Student  
+🔬 Interested in Deep Learning, 3D Computer Vision, and AI Research  
+📍 Istanbul, Türkiye
+
+---
+
+## 🚀 About Me
+
+- Double major in Computer Engineering & Artificial Intelligence Engineering
+- Undergraduate researcher working on 3D point cloud analysis
+- Interested in Deep Tech-oriented R&D and interdisciplinary AI
+- Passionate about combining intelligent systems with real-world applications
 
 
 ---
 
-🚀 About Me
-🎓 Double major in Computer Engineering & AI Engineering at Bahçeşehir University
-🔬 Undergraduate researcher working on 3D point cloud analysis and rooftop edge/corner detection
-🧠 Interested in Deep Tech, AI research, cognitive science, and philosophy of technology
-✍️ Writing and organizing AI-focused publications & discussions
-🌱 Currently improving my skills in Deep Learning, Computer Vision, and high-performance data processing 
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000)
+![Verilog](https://img.shields.io/badge/-Verilog-000)
+
+
+### Tools & Frameworks
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visualstudio)
 
 ---
 
-### 🛠️ Tech Stack
+## 📌 Featured Projects
 
-🛠 Tech Stack
-Languages
-Python
-C++
-MATLAB
-Verilog (Basics)
+### 🏠 3D Rooftop Edge & Corner Detection
+Deep learning and geometric processing pipeline for extracting rooftop structures from 3D point clouds.
 
-Tools & Frameworks
-PyTorch
-Open3D
-NumPy
-Matplotlib
-Git & GitHub
-Visual Studio
-n8n
+### 🚕 Trip Analyzer
+High-performance CSV trip analyzer built with C++ using optimized hash-map based aggregation.
+
+### 🌌 Planetary Atmosphere Absorption Analysis
+Spectral data analysis project for detecting atmospheric absorption signatures.
+
+### 😊 Smiling vs Non-Smiling Face Recognition
+Binary image classification project exploring overfitting and generalization.
+
+### 🤖 AI Philosophy News Agent
+Automated AI news aggregation workflow using RSS and API integrations.
+
+### 📱 PhiloLearn
+AI-supported educational mobile application with dynamic quizzes and content.
+
 ---
 
-📌 Featured Projects
-🏠 3D Rooftop Edge & Corner Detection
+## 📈 Currently Working On
 
-Deep learning + geometric processing pipeline for extracting rooftop structures from 3D point clouds.
+- 3D Computer Vision
+- Point Cloud Analysis
+- Deep Learning Research
+- AI + Cognitive Science Interdisciplinary Projects
 
-🚕 Trip Analyzer
+---
 
-High-performance CSV trip analyzer built with C++ using hash maps and optimized data aggregation.
+## 📫 Connect With Me
 
-🌌 Planetary Atmosphere Absorption Analysis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://linkedin.com/in/dila-y%C3%BCksel-880968307)
 
-Analyzed spectral datasets to detect atmospheric absorption signatures using Python.
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/dilayuksel01)
 
-😊 Smiling vs Non-Smiling Face Recognition
-
-Binary image classification project exploring overfitting and dataset generalization.
-
-🤖 AI Philosophy News Agent
-
-Automated AI news aggregation workflow using RSS + API integrations in n8n.
-
-📱 PhiloLearn
-
-AI-supported educational mobile application with quizzes and dynamic learning content.
-
-🧪 Research & Leadership
-Undergraduate Researcher
-
-Working on academic research related to 3D computer vision and point cloud analysis.
-
-AI Publishing Committee – Founding President
-
-Leading research discussions, publications, and AI-focused content workflows.
-
-Event & Organization Experience
-
-Organized interdisciplinary philosophy and technology events and moderated discussions.
-
-
-### 📫 Let's Connect
-- 📧 Email: [fatmadila.yuksel@bahcesehir.edu.tr](mailto:fatmadila.yuksel@bahcesehir.edu.tr)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dila-yüksel-880968307)  
+---
