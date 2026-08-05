@@ -1,20 +1,11 @@
-# Hi there, I'm Dila 👋
+# Hi there, I'm Dila 
 
 🎓 Computer & Artificial Intelligence Engineering Student   
 📍 Istanbul, Türkiye
 
 ---
 
-## 🚀 About Me
 
-
-- 🔬 Undergraduate researcher focused on 3D Computer Vision and Point Cloud Analysis
-- 🧠 Interested in Deep Learning, Data Processing, and interdisciplinary AI research
-- 💻 Developing projects in computer vision, AI applications, and high-performance data analysis
-- 📚 Active in AI publishing, research discussions, and technical event organization
-
-
----
 
 ## 🛠️ Tech Stack
 
