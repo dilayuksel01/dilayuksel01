@@ -6,7 +6,6 @@
 ---
 
 
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -45,16 +44,7 @@ Automated AI news aggregation workflow using RSS and API integrations.
 ### 📱 PhiloLearn
 AI-supported educational mobile application with dynamic quizzes and content.
 
----
 
-## 📈 Currently Working On
-
-- 3D Computer Vision
-- Point Cloud Analysis
-- Deep Learning Research
-- AI + Cognitive Science Interdisciplinary Projects
-
----
 
 ## 📫 Connect With Me
 
